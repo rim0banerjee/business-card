@@ -1,0 +1,17 @@
+
+
+.card{
+    margin: 20px;
+    border: 2px dotted blue; 
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.avatar{
+    width: 150px;
+}
+
+.border-blue{
+    border: 2px dotted blue;
+}
